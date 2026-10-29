@@ -20,7 +20,7 @@ import time
 from pathlib import Path
 from typing import Optional
 
-import opencv as cv2
+import cv2
 import numpy as np
 import streamlit as st
 from PIL import Image
